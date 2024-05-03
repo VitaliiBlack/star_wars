@@ -13,9 +13,7 @@ The Star Wars mobile app provides an interactive way to explore the Star Wars un
 ## Features
 
 - **Characters**: View information about various characters from the Star Wars universe.
-- **Planets**: Display detailed information about different planets.
-- **Movies**: List of Star Wars movies with detailed descriptions.
-- **Interactive Animations**: Use Lottie to animate interface elements, such as lightsabers or the flight of spacecraft.
+- **Interactive Animations**: Use Lottie to animate interface elements
 
 ## Installation
 
