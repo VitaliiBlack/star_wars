@@ -89,7 +89,7 @@ class starWarsStore {
 
   resetOthers() {
     this._favoriteList = this._favoriteList.filter(
-      favorite => favorite.gender !== 'male' && favorite.gender !== 'female',
+      favorite => favorite.gender === 'male' || favorite.gender === 'female',
     );
   }
 
